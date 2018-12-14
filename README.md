@@ -1,4 +1,4 @@
-# Walmart Chile Data Science Test 2018
+# Walmart Chile data science test 2018
 Desafío para postulantes a prácticas de data science en Walmart Chile 2018
 
 
