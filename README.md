@@ -37,6 +37,5 @@ Te invitamos a responder lo siguiente:
 
 Los preguntas anteriores son bastante abiertas, y esperamos que  como: ¿Qué variables construir para la clusterización?, ¿Cómo normalizarlas?, ¿Cómo defino a un "buen" cliente, es el que más compra, el que compra más veces, o el más frecuente? ¿Cómo defino la relevancia de un producto?, etc.
 
-El formato de entrega puede ser **Python Notebook** o **R Markdown**. El Plazo límite de entrega: **Miércoles 19 de diciembre**, al mediodía. Se recomienda **clonar** o hacer un **fork** de este repositorio, y realizar su entrega por **Github**.
-
+El formato de entrega puede ser **Python Notebook** o **R Markdown**. El Plazo límite de entrega: **Miércoles 19 de diciembre**, al mediodía. Se recomienda **clonar** o hacer un **fork** de este repositorio, y realizar su entrega por **Github**. También puedes hacer tu entrega enviando un correo a `sebastian.torres@walmart.com`.
 Con este ejercicio no solo buscamos evaluar tu capacidad de trabajar con un lenguaje de programación, y de librerías básicas para Data Science. Si no que también la habilidad de encontrar problemas, proponer soluciones, y comunicarlas de manera efectiva. Aprovecha esta oportunidad! Éxito!
