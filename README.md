@@ -2,7 +2,7 @@
 Desafío para postulantes a prácticas de data science en Walmart Chile 2018
 
 
-En el archivo `/data/transactions.zip` encontrarás una muestra de las transacciones que registramos todos los días. Puedes ver una muestra de los datos a continuación:
+En el archivo `/data/data_practica.zip` encontrarás una muestra de las transacciones que registramos todos los días. Puedes ver una muestra de los datos a continuación:
 
 |Fecha|Cliente|Boleta|Producto|Cantidad|Venta|Costo|
 |--- |--- |--- |--- |--- |--- |--- |
